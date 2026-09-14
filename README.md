@@ -1,6 +1,6 @@
 # Codes for "Dissipative quantum electrometry with a single-ion phonon laser"
 
-This repository contains Python (QuTiP) and MATLAB codes, plus processed data, to reproduce all figures.
+This repository contains Python (QuTiP) and MATLAB codes, plus data, to reproduce all figures.
 
 - `Fig1_Wigner_Reconstruction.ipynb` – Fig. 1
 - `Fig2_Simulation_and_Fitting.ipynb` – Fig. 2
