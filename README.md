@@ -1,5 +1,7 @@
 # Codes for "Dissipative quantum electrometry with a single-ion phonon laser"
 
+This repository contains the source data and code for the manuscript under review at Nature Communications (Tracking No. NCOMMS-26-076006). Please cite the article if you use any part of this repository.
+
 This repository contains Python (QuTiP) and MATLAB codes, plus data, to reproduce all figures.
 
 - `Fig1_Wigner_Reconstruction.ipynb` – Fig. 1
