@@ -1,6 +1,6 @@
 # MATLAB Code for Fig. 2(b)
 
-This script processes the BSB Rabi oscillation data for datasets A1–A4 and B1–B4 and generates the fitting results.
+This script processes the experimental data for datasets A1–A4 and B1–B4 and generates the results.
 
 ## Requirements
 - MATLAB (tested on R2025a)
@@ -11,5 +11,5 @@ Place `Fig2b_Data.zip` in the same folder as this script and run it. The code wi
 
 ## Output
 A new folder `Analysis_Result/` containing:
-- `Final_Analysis_Report_*.xlsx` – Intermediate data for plotting
-- `Fig_Rabi_*.pdf` / `.png` – Validation plots
+- `Final_Analysis_Report_*.xlsx` – Processed data for plotting
+- `Fig_Rabi_*.pdf` / `.png` – Fitting curves
